@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.cartao {
+  width: 450px;
+  border: 2px solid black;
+  margin: 20px auto;
+}
+
+.foto {
+  width: 200px;
+  height: 250px;
+  border: 2px solid black;
+}
+
+.botao-contato {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 8px 15px;
+}
+
+.botao-contato a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.campo {
+  border: 1px solid black;
+  padding: 2px;
+  margin-bottom: 20px;
+}
+
+.p-primeiro {
+  border: 1px solid black;
+  margin-bottom: 40px;
+  padding: 2px;
+}
+
+.p-segundo {
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 2px;
+}
+
+.caixa-num {
+  display: inline-block;
+  width: 80px;
+  height: 90px;
+  border: 2px solid black;
+}
+
+.caixa-num-2 {
+  margin-left: -15px;
+}
+
+.caixa-num-3 {
+  margin-left: 5px;
+}
+
+.rodape {
+  border: 1px solid black;
+  margin: 10px 20px 30px 40px;
+  padding: 2px;
+}
